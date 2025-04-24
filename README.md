@@ -1,6 +1,4 @@
 # GUIFramework
-GUIFramework is a lightweight and flexible framework for creating inventory-based GUIs in Spigot &amp; Paper, offering an intuitive API that handles interactions without low-level event management.
-# GUIFramework
 
 GUIFramework is a simple and flexible framework designed for creating inventory-based GUI menus for Spigot & Paper. It allows you to easily manage GUI interactions without dealing with the low-level event handling, providing an intuitive API for developers.
 
